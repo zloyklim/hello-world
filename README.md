@@ -1,5 +1,5 @@
 # hello-world
 just first project
 
-Hello Humanbeings!
+Hello Human beings!
 ZloyKlim is here! I want to start learning Scala and Play fw. 
